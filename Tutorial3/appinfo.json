@@ -1,0 +1,42 @@
+{
+  "uuid": "38683eba-9e6a-4ced-8cd8-f91874004246",
+  "shortName": "Tutorial3",
+  "longName": "Tutorial3",
+  "companyName": "DanielLofaro",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "capabilities": 
+  [ "location" ]
+  ,
+  "appKeys": {
+    "KEY_TEMPERATURE": 0,
+    "KEY_CONDITIONS": 1,
+    "dummy": 2
+  },
+  "resources": {
+    "media": [
+  {
+    "type": "font",
+    "name": "FONT_PERFECT_DOS_48",
+    "file": "fonts/perfect-dos-vga.ttf",
+    "compatibility":"2.7"
+  },
+  {
+  "type": "png",
+  "name": "BACKGROUND",
+  "file": "images/background.png"
+  },
+  {
+    "type":"font",
+    "name":"FONT_PERFECT_DOS_20",
+    "file":"fonts/perfect-dos-vga.ttf",
+    "compatibility": "2.7"
+  }
+]
+} 
+}

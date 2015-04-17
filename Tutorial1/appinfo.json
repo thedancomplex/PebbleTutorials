@@ -1,0 +1,19 @@
+{
+  "uuid": "38683eba-9e6a-4ced-8cd8-f91874004246",
+  "shortName": "Tutorial1",
+  "longName": "Tutorial1",
+  "companyName": "DanielLofaro",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
